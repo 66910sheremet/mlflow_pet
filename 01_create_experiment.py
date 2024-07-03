@@ -14,3 +14,4 @@ if __name__ == "__main__":
                                              artifact_location= "testing_mlflow2_artifacts",
                                              tags={"env": "dev", "version": "1.0.0"})
     print(f'Experiment ID: {experiment_id}')
+    
